@@ -10,3 +10,7 @@ files {
 client_scripts {
 	'client.lua',
 }
+
+server_scripts {
+	'serveur.lua',
+}
